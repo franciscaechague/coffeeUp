@@ -8,7 +8,7 @@ Using different technologies, I developed an app where you answer quesitons in o
 
 ### Check it out!
 
-* [Coffee-Up](https://franciscaechague.github.io/Hangman-Game/) - Play and have fun!
+* [Coffee-Up](https://franciscaechague.github.io/coffeeUp/) - Learn which coffee you're in the mood for
 * [How it works] - Step by step
 
 ![Step 1](/assets/images/stepByStep.png?raw=true "Step By Step")
